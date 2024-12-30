@@ -1,0 +1,26 @@
+body{
+background-color: pink;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.container{
+  
+  background-color: antiquewhite;
+  margin:80px auto;
+  width: 650px;
+
+}
+input{
+    background-color: rgb(166, 172, 156);
+    color: white;
+    text-align: center;
+}
+
+  button{
+    background-color: rgb(61, 121, 139);
+    padding: 15px;
+    border: 2px;
+  }
